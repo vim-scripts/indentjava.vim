@@ -1,0 +1,14 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3899
+
+This is an indent file for java source files. This indent file is based on the java indent file maintained by Toby Allsopp, which was shipped with the official vim distribution before vim version 7.3.408.
+
+This script has been included in the official vim distribution since vim version 7.3.409. 
+
+Repository:
+Mercurial: https://bitbucket.org/xuhdev/indent-java.vim
+Git: https://github.com/xuhdev/indent-java.vim
+
+If you have any problem, you could either send me an email <xuhdev@gmail.com> or submit it on the issue tracker:
+
+https://github.com/xuhdev/indent-java.vim/issues
+
